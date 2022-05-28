@@ -1,0 +1,6 @@
+
+for j= 1:2
+    for i= 1:5
+    my_laps_gold_dist{j,i}= get_laps(ex_gold_dist_cell{1,1});
+    end
+end
